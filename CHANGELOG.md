@@ -5,9 +5,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased 5.0.x]
 ### Added
-- Add "latest" suffix option to name packages. [(#732)](https://github.com/wazuh/wazuh-indexer/pull/732)
-
+- New quality check workflows [(#753)](https://github.com/wazuh/wazuh-indexer/pull/753)
 ### Dependencies
+
+### Changed
+- Update opensearch.yml template and auto-generate creds directory [(#755)](https://github.com/wazuh/wazuh-indexer/pull/755)
 
 ### Deprecated
 
